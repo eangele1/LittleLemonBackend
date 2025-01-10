@@ -1,0 +1,7 @@
+SUPERUSER:
+Username: admin
+Password: password
+
+STAFF USER:
+Username: janedoe1
+Password: JAA06ZvV
